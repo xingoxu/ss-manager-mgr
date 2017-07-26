@@ -14,4 +14,14 @@ title = China Mainland
 ++ ShanghaiTelecom
 menu = Shanghai Telecom
 title = Shanghai Telecom
-host = 218.79.104.1
+host = 218.79.100.1
+
+++ CN2
+menu = Shanghai Telecom CN2
+title = Shanghai Telecom CN2
+host = nas.xingoxu.com
+
+++ ShanghaiUnicom
+menu = ShanghaiUnicom
+title = ShanghaiUnicom
+host = 27.115.81.1

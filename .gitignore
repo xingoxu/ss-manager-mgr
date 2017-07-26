@@ -1,3 +1,5 @@
 webgui.yml
 ss.yml
 docker-compose.yml
+mysql/
+conf.d/
