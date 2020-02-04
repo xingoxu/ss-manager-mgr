@@ -19,6 +19,6 @@ RUN git submodule update --init --recursive \
 
 
     
-RUN curl -sL https://deb.nodesource.com/setup_6.x | bash - && \
+RUN curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash - && \
     sudo apt-get install -y nodejs && \
     npm i -g shadowsocks-manager
